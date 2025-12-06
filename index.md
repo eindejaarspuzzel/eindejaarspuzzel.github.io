@@ -13,7 +13,7 @@ img {
     background-color: black;
     margin: 0 auto 16px;
     padding: 0px;
-    width: 72px;
+    width: 160px;
     text-align: center;
     color: #EE3240;
     text-decoration: inherit;
@@ -22,11 +22,13 @@ img {
     width: 100%;
     display: block;
     vertical-align: middle;
-    line-height: 36px;}
+    line-height: 36px;
+    color: #FCDA25;
+}
 </style>
 
 <div>
-  <img src="https://raw.githubusercontent.com/eindejaarspuzzel/eindejaarspuzzel.github.io/refs/heads/master/puzzel-2025-logo.png" alt="logo eindejaarspuzzel 2025" width="100px">
+  <img src="../puzzel-2025-logo.png" alt="logo eindejaarspuzzel 2025" width="100px">
 </div>
 
 # Eindejaarspuzzel 2025
@@ -43,11 +45,17 @@ Je kan de opgave [hier](../opgave_2025.pdf) downloaden (uitsluitend in het Neder
 
 <p class="button">
 <a href="../opgave_2025.pdf">
-<i class="fa fa-download"></i>
+Downloaden <i class="fa fa-download"></i>
 </a>
 </p>
 
 De puzzel is uitdagend, daarom heb je meer dan een maand de tijd om zoveel mogelijk op te lossen. Insturen kan via <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. We zijn blij met alle inzendingen, dus zelfs als je slechts een paar oplossingen gevonden hebt, is het waardevol om in te sturen.
+
+<p class="button">
+<a href="mailto:eindejaarspuzzel@gmail.com">
+Insturen <i class="fa fa-send"></i>
+</a>
+</p>
 
 ## Regels
 
@@ -58,5 +66,5 @@ Deelnemen kan alleen of in groep en je kan gebruikmaken van alle bronnen die je 
 Als je denkt een fout te hebben gevonden in een van de opgaves, dan kan je die melden door te mailen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Wij beantwoorden geen inhoudelijke vragen over de puzzel.
 
 <div>
-  <img src="https://raw.githubusercontent.com/eindejaarspuzzel/eindejaarspuzzel.github.io/refs/heads/master/puzzel-2025-teaser.png" alt="logo eindejaarspuzzel 2025" width="80%">
+  <img src="../puzzel-2025-teaser.png" alt="logo eindejaarspuzzel 2025" width="80%">
 </div>
