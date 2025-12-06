@@ -3,7 +3,7 @@
 <style>
 h1:has(a) {display: none !important;}
 h1 {text-align:center;}
-
+a {color:#EE3240;}
 img {
     display:block;
     margin:auto;
