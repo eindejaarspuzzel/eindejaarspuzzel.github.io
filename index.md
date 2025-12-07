@@ -41,21 +41,21 @@ Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar he
 
 ## Deelnemen
 
-Je kan de opgave [hier](../opgave_2025.pdf) downloaden (uitsluitend in het Nederlands).
+Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands).
 
-<p class="button">
+<!-- <p class="button">
 <a href="../opgave_2025.pdf">
 Downloaden <i class="fa fa-download"></i>
 </a>
-</p>
+</p>-->
 
 De puzzel is uitdagend, daarom heb je meer dan een maand de tijd om zoveel mogelijk op te lossen. Insturen kan via <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. We zijn blij met alle inzendingen, dus zelfs als je slechts een paar oplossingen gevonden hebt, is het waardevol om in te sturen.
 
-<p class="button">
+<!-- <p class="button">
 <a href="mailto:eindejaarspuzzel@gmail.com">
 Insturen <i class="fa fa-send"></i>
 </a>
-</p>
+</p> -->
 
 ## Regels
 
