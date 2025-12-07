@@ -76,6 +76,12 @@ Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de 
 
 | Opgave                              | Oplossingen                              |
 |----------------------------------------|----------------------------------------|
-| <a href="../vorige_edities/2018_opgave_NL.pdf"> 2018 opgaves <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2018_oplossingen_NL.pdf"> 2018 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2024_opgave_nl.pdf"> 2024 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2024_oplossingen_NL.pdf"> 2024 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2023_opgave_nl.pdf"> 2023 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2023_oplossingen_NL.pdf"> 2023 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2022_opgave_nl_erratum.pdf"> 2022 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2022_oplossingen_NL.pdf"> 2022 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2021_opgave_NL.pdf"> 2021 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2021_oplossingen_nl.pdf"> 2021 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2020_opgave_NL.pdf"> 2020 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2020_oplossingen_NL.pdf"> 2020 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2019_opgave_NL.pdf"> 2019 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2019_oplossingen_NL.pdf"> 2019 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="../vorige_edities/2018_opgave_NL.pdf"> 2018 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2018_oplossingen_NL.pdf"> 2018 oplossingen <i class="fa fa-download"></i></a> |
 
 
