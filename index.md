@@ -69,4 +69,13 @@ Deelnemen kan alleen of in groep en je kan gebruikmaken van alle bronnen die je 
 
 Als je denkt een fout te hebben gevonden in een van de opgaves, dan kan je die melden door te mailen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Wij beantwoorden geen inhoudelijke vragen over de puzzel.
 
+## Vorige edities
+
+Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de voorgaande eindejaarspuzzels van de Belgische defensie. Dit geeft je een idee van de te volgen richting. Veel succes!
+
+
+| Opgave                              | Oplossingen                              |
+|----------------------------------------|----------------------------------------|
+| <a href="../vorige_edities/2018_opgave_NL.pdf"> 2018 opgaves <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2018_oplossingen_NL.pdf"> 2018 oplossingen <i class="fa fa-download"></i></a> |
+
 
