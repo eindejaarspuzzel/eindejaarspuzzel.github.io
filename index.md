@@ -42,6 +42,11 @@ Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar he
 ## Deelnemen
 
 Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands).
+We hebben alvast een teaser klaargezet:
+
+<div>
+  <img src="../puzzel-2025-teaser.png" alt="logo eindejaarspuzzel 2025" width="80%">
+</div>
 
 <!-- <p class="button">
 <a href="../opgave_2025.pdf">
@@ -65,6 +70,4 @@ Deelnemen kan alleen of in groep en je kan gebruikmaken van alle bronnen die je 
 
 Als je denkt een fout te hebben gevonden in een van de opgaves, dan kan je die melden door te mailen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Wij beantwoorden geen inhoudelijke vragen over de puzzel.
 
-<div>
-  <img src="../puzzel-2025-teaser.png" alt="logo eindejaarspuzzel 2025" width="80%">
-</div>
+
