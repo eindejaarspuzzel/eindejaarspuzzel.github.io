@@ -43,8 +43,8 @@ Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar he
 
 Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands). \\
 We hebben alvast een teaser klaargezet:
-
-
+<br>
+<br>
 <p style="margin:10px">
   <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%">
 </p>
