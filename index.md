@@ -41,16 +41,12 @@ Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar he
 
 ## Deelnemen
 
-Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands). \\
+Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands).
+
 We hebben alvast een teaser klaargezet:
-<br>
-<br>
-<br>
-<p style="margin:10px">
-  <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%">
+<p>
+  <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%" style="margin: 54px auto 54px;">
 </p>
-<br>
-<br>
 <!-- <p class="button">
 <a href="../opgave_2025.pdf">
 Downloaden <i class="fa fa-download"></i>
