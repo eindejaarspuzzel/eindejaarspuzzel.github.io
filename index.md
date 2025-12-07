@@ -2,11 +2,11 @@
 
 <style>
 h1:has(a) {display: none !important;}
-h1 {text-align:center;}
-a {color:#EE3240;}
+h1 {text-align: center;}
+a {color: #EE3240;}
 img {
-    display:block;
-    margin:auto;
+    display: block;
+    margin: auto;
 }
 .button {
     border-radius: 12px;
@@ -44,9 +44,9 @@ Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar he
 Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands).
 We hebben alvast een teaser klaargezet:
 
-<div>
-  <img src="../puzzel-2025-teaser.png" alt="logo eindejaarspuzzel 2025" width="80%">
-</div>
+<p>
+  <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%">
+</p>
 
 <!-- <p class="button">
 <a href="../opgave_2025.pdf">
