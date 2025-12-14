@@ -13,7 +13,7 @@ img {
     background-color: black;
     margin: 0 auto 16px;
     padding: 0px;
-    width: 160px;
+    width: 250px;
     text-align: center;
     color: #EE3240;
     text-decoration: inherit;
