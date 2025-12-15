@@ -41,25 +41,27 @@ Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar he
 
 ## Deelnemen
 
-Na het startschot zal je de opgave hier kunnen downloaden (uitsluitend in het Nederlands).
-
-We hebben alvast een teaser klaargezet:
-<p>
-  <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%" style="margin: 54px auto 54px;">
-</p>
-<!-- <p class="button">
-<a href="../opgave_2025.pdf">
-Downloaden <i class="fa fa-download"></i>
+<p class="button">
+<a href="2025/opgave2025.pdf">
+Download <i class="fa fa-download"></i>
 </a>
-</p>-->
+</p>
+
+<p class="button">
+<a href="2025/opgave2025_print.pdf">
+Download (printvriendelijke versie) <i class="fa fa-download"></i>
+</a>
+</p>
+
 
 De puzzel is uitdagend, daarom heb je meer dan een maand de tijd om zoveel mogelijk op te lossen. Insturen kan via <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. We zijn blij met alle inzendingen, dus zelfs als je slechts een paar oplossingen gevonden hebt, is het waardevol om in te sturen.
 
-<!-- <p class="button">
+<p class="button">
 <a href="mailto:eindejaarspuzzel@gmail.com">
 Insturen <i class="fa fa-send"></i>
 </a>
-</p> -->
+</p> 
+
 
 ## Regels
 
@@ -85,3 +87,11 @@ Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de 
 | <a href="../vorige_edities/2018_opgave_NL.pdf"> 2018 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2018_oplossingen_NL.pdf"> 2018 oplossingen <i class="fa fa-download"></i></a> |
 
 
+
+
+## Teaser
+Met deze teaser kondigden we eerder de startdatum van de puzzel aan:
+
+<p>
+  <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%" style="margin: 54px auto 54px;">
+</p>
