@@ -13,7 +13,7 @@ img {
     background-color: black;
     margin: 0 auto 16px;
     padding: 0px;
-    width: 250px;
+    width: 320px;
     text-align: center;
     color: #EE3240;
     text-decoration: inherit;
@@ -85,9 +85,6 @@ Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de 
 | <a href="../vorige_edities/2020_opgave_NL.pdf"> 2020 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2020_oplossingen_NL.pdf"> 2020 oplossingen <i class="fa fa-download"></i></a> |
 | <a href="../vorige_edities/2019_opgave_NL.pdf"> 2019 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2019_oplossingen_NL.pdf"> 2019 oplossingen <i class="fa fa-download"></i></a> |
 | <a href="../vorige_edities/2018_opgave_NL.pdf"> 2018 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2018_oplossingen_NL.pdf"> 2018 oplossingen <i class="fa fa-download"></i></a> |
-
-
-
 
 ## Teaser
 Met deze teaser kondigden we eerder de startdatum van de puzzel aan:
