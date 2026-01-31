@@ -53,14 +53,13 @@ Download (printvriendelijke versie) <i class="fa fa-download"></i>
 </a>
 </p>
 
-
-De puzzel is uitdagend, daarom heb je meer dan een maand de tijd om zoveel mogelijk op te lossen. Insturen kan via <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. We zijn blij met alle inzendingen, dus zelfs als je slechts een paar oplossingen gevonden hebt, is het waardevol om in te sturen.
+De puzzel is afgelopen. Bedankt voor de vele inzendingen. Hints zijn vanaf nu beschikbaar, de oplossing komt online na de verbetering.
 
 <p class="button">
-<a href="mailto:eindejaarspuzzel@gmail.com">
-Insturen <i class="fa fa-send"></i>
+<a href="2025/Hints2025.pdf">
+Hints<i class="fa fa-download"></i>
 </a>
-</p> 
+</p>
 
 
 ## Regels
