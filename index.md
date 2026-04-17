@@ -39,29 +39,47 @@ Na het officiële stopzetten van de ADIV-eindejaarspuzzel hebben wij, een team v
 
 Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar het afgelopen jaar en wetenschappelijke links.
 
-## Deelnemen
+## Opgaven
+
+De puzzel van 2025 is afgelopen en verwerkt, maar met de knoppen hieronder kun je nog steeds spoilervrij nagenieten. Er zijn tevens nog hints beschikbaar.
 
 <p class="button">
 <a href="2025/opgave2025.pdf">
-Download <i class="fa fa-download"></i>
+Download <i class="fa fa-puzzle-piece"></i>
 </a>
 </p>
 
 <p class="button">
 <a href="2025/opgave2025_print.pdf">
-Download (printvriendelijke versie) <i class="fa fa-download"></i>
+Download (printvriendelijke versie) <i class="fa fa-puzzle-piece"></i>
 </a>
 </p>
-
-De puzzel is afgelopen. Bedankt voor de vele inzendingen. Hints zijn vanaf nu beschikbaar, de oplossing komt online na de verbetering.
 
 <p class="button">
 <a href="2025/Hints2025.pdf">
-Hints<i class="fa fa-download"></i>
+Hints <i class="fa fa-download"></i>
 </a>
 </p>
 
+## Resultaten
 
+We ontvingen antwoorden van 35 teams. Hartelijk bedankt voor jullie deelname!
+
+Dit jaar was het enorm spannend aan de absolute top van het klassement: twee teams bleven nek aan nek en het verschil werd uiteindelijk gemaakt met slechts een half punt! Het waren **Wessel, Barry, Ruben en Thomas** die de topscore van 160,5 punten behaalden. Omdat het zo close was, willen we ook een eervolle vermelding geven aan **de Pseudoku’s** met 160 punten. Proficiat aan beide teams, maar evenzeer proficiat én bedankt aan alle andere deelnemende ploegen.
+
+De uitgewerkte oplossingen en alle resultaten zijn hieronder te vinden.
+
+<p class="button">
+<a href="2025/oplossingen2025.pdf">
+Oplossingen en resultaten <i class="fa fa-lightbulb-o"></i>
+</a>
+</p>
+
+## Contacteer ons
+
+Voor vragen/opmerkingen naar volgend jaar toe zijn we nog steeds bereikbaar via <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Houd er wel rekening mee dat die mailbox in het tussenseizoen slechts sporadisch gemonitord wordt.
+
+<!--
 ## Regels
 
 Deelnemen kan alleen of in groep en je kan gebruikmaken van alle bronnen die je ter beschikking hebt. Wel vragen we jullie om geen antwoorden of hints te delen tussen teams vóór de deadline op **30 januari 2026**. Meer informatie vind je in het voorwoord van de puzzel.
@@ -69,11 +87,11 @@ Deelnemen kan alleen of in groep en je kan gebruikmaken van alle bronnen die je 
 ## Vragen
 
 Als je denkt een fout te hebben gevonden in een van de opgaves, dan kan je die melden door te mailen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Wij beantwoorden geen inhoudelijke vragen over de puzzel.
+-->
 
 ## Vorige edities
 
 Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de voorgaande eindejaarspuzzels van de Belgische defensie. Dit geeft je een idee van de te volgen richting. Veel succes!
-
 
 | Opgave                              | Oplossingen                              |
 |----------------------------------------|----------------------------------------|
