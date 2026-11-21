@@ -23,12 +23,24 @@ img {
     text-decoration: inherit;
 }
 
-.button a, .button button {
+.button a,
+.button button {
     width: 100%;
     display: block;
     vertical-align: middle;
     line-height: 36px;
     color: #FCDA25;
+}
+
+.button button {
+    font: inherit;
+    line-height: 36px;
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 /* specific mail form styles */
