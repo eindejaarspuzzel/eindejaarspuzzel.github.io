@@ -19,7 +19,7 @@ In 2026 brengen we onze tweede eindejaarspuzzel uit. Deze nieuwe puzzel zit opni
 
 ## Opgaven
 
-De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je alvast een berichtje sturen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>.
+De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je alvast een berichtje sturen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a> of het onderstaande formuliertje invullen.
 
 <!-- <p class="button">
 <a href="mailto:eindejaarspuzzel@gmail.com">

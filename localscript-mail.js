@@ -22,7 +22,7 @@ document.getElementById('signup').addEventListener('submit', async e => {
     const j = await r.json();
     if (!r.ok || j.success === 'false') throw new Error();
     form.style.display = 'none';
-    status.textContent = 'Goed ontvangen, bedankt!';
+    status.textContent = 'We hebben je e-mailadres goed ontvangen, bedankt!';
   } catch {
     status.textContent = 'Er liep iets fout. Probeer later opnieuw of stuur ons een mailtje.';
   }
