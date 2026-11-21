@@ -102,7 +102,7 @@ Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de 
 
 | Opgave                              | Oplossingen                              | Hints |
 |-------------------------------------|------------------------------------------|-------|
-| <a href="vorige_edities/2025_opgave.pdf"> opgave 2025 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2025_oplossingen.pdf"> oplossingen 2025 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2025_hints.pdf"> hints 2025 <i class="fa fa-download"></i></a> |
+| <a href="2025/2025_opgave.pdf"> opgave 2025 <i class="fa fa-download"></i></a> | <a href="2025/2025_oplossingen.pdf"> oplossingen 2025 <i class="fa fa-download"></i></a> | <a href="2025/2025_hints.pdf"> hints 2025 <i class="fa fa-download"></i></a> |
 
 Voor de volledigheid kun je hier ook de originele reeks eindejaarspuzzels van de Belgische defensie terugvinden.
 
