@@ -25,21 +25,47 @@ img {
     line-height: 36px;
     color: #FCDA25;
 }
+table {
+  display: table;
+  margin-left:auto;
+  margin-right:auto;
+}
 </style>
 
 <div>
-  <img src="../puzzel-2025-logo.png" alt="logo eindejaarspuzzel 2025" width="100px">
+  <img src="puzzel-2026-logo.png" alt="logo eindejaarspuzzel 2026" width="100px">
 </div>
 
-# Eindejaarspuzzel 2025
+# Eindejaarspuzzel 2026
 
 ## Over de puzzel
 
-Na het officiële stopzetten van de ADIV-eindejaarspuzzel hebben wij, een team van zowel nieuwe puzzelmakers als makers van de vorige editie, de uitdaging aangenomen om een gloednieuwe moeilijkste puzzel van België te creëren.
+Na het officiële stopzetten van de ADIV-eindejaarspuzzel in 2025 hebben wij, een team van zowel nieuwe puzzelmakers als makers van de vorige editie, de uitdaging aangenomen om een gloednieuwe moeilijkste puzzel van België te creëren.
 
-Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar het afgelopen jaar en wetenschappelijke links.
+In 2026 brengen we onze tweede eindejaarspuzzel uit. Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar het afgelopen jaar en wetenschappelijke links.
 
 ## Opgaven
+
+De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je ons alvast je mailadres doorgeven.
+
+<form id="signup">
+  <label for="email">e-mailadres</label>
+  <input type="email" id="email" required maxlength="64" autocomplete="email">
+  <button type="submit">Hou mij op de hoogte!</button>
+</form>
+
+<script>
+document.getElementById('signup').addEventListener('submit', e => {
+  e.preventDefault();
+  const addr = document.getElementById('email').value.trim();
+  const to = 'eindejaarspuzzel@gmail.com';
+  const subject = encodeURIComponent('Hou mij op de hoogte van de eindejaarspuzzel!');
+  const body = encodeURIComponent('Mijn e-mailadres: ' + addr);
+  location.href = `mailto:${to}?subject=${subject}&body=${body}`;
+});
+</script>
+
+<!-- ## Opgaven
 
 De puzzel van 2025 is afgelopen en verwerkt, maar met de knoppen hieronder kun je nog steeds spoilervrij nagenieten. Er zijn tevens nog hints beschikbaar.
 
@@ -59,21 +85,15 @@ Download (printvriendelijke versie) <i class="fa fa-puzzle-piece"></i>
 <a href="2025/Hints2025.pdf">
 Hints <i class="fa fa-download"></i>
 </a>
-</p>
+</p> -->
 
-## Resultaten
+## Resultaten 2025
+<details>
+  <summary>[openklikken]</summary>
+  We ontvingen antwoorden van 35 teams. Hartelijk bedankt voor jullie deelname!
 
-We ontvingen antwoorden van 35 teams. Hartelijk bedankt voor jullie deelname!
-
-Dit jaar was het enorm spannend aan de absolute top van het klassement: twee teams bleven nek aan nek en het verschil werd uiteindelijk gemaakt met slechts een half punt! Het waren **Wessel, Barry, Ruben en Thomas** die de topscore van 160,5 punten behaalden. Omdat het zo close was, willen we ook een eervolle vermelding geven aan **de Pseudoku’s** met 160 punten. Proficiat aan beide teams, maar evenzeer proficiat én bedankt aan alle andere deelnemende ploegen.
-
-De uitgewerkte oplossingen en alle resultaten zijn hieronder te vinden.
-
-<p class="button">
-<a href="2025/oplossingen2025.pdf">
-Oplossingen en resultaten <i class="fa fa-lightbulb-o"></i>
-</a>
-</p>
+  Dit jaar was het enorm spannend aan de absolute top van het klassement: twee teams bleven nek aan nek en het verschil werd uiteindelijk gemaakt met slechts een half punt! Het waren **Wessel, Barry, Ruben en Thomas** die de topscore van 160,5 punten behaalden. Omdat het zo close was, willen we ook een eervolle vermelding geven aan **de Pseudoku’s** met 160 punten. Proficiat aan beide teams, maar evenzeer proficiat én bedankt aan alle andere deelnemende ploegen.
+</details>
 
 ## Contacteer ons
 
@@ -91,21 +111,27 @@ Als je denkt een fout te hebben gevonden in een van de opgaves, dan kan je die m
 
 ## Vorige edities
 
-Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de voorgaande eindejaarspuzzels van de Belgische defensie. Dit geeft je een idee van de te volgen richting. Veel succes!
+Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de voorgaande eindejaarspuzzel. Dit geeft je een idee van de te volgen richting.
+
+| Opgave                              | Oplossingen                              | Hints |
+|-------------------------------------|------------------------------------------|-------|
+| <a href="vorige_edities/2025_opgave.pdf"> opgave 2025 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2025_oplossingen.pdf"> oplossingen 2025 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2025_hints.pdf"> hints 2025 <i class="fa fa-download"></i></a> |
+
+Voor de volledigheid kun je hier ook de originele reeks eindejaarspuzzels van de Belgische defensie terugvinden.
 
 | Opgave                              | Oplossingen                              |
 |----------------------------------------|----------------------------------------|
-| <a href="../vorige_edities/2024_opgave_nl.pdf"> 2024 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2024_oplossingen_NL.pdf"> 2024 oplossingen <i class="fa fa-download"></i></a> |
-| <a href="../vorige_edities/2023_opgave_nl.pdf"> 2023 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2023_oplossingen_NL.pdf"> 2023 oplossingen <i class="fa fa-download"></i></a> |
-| <a href="../vorige_edities/2022_opgave_nl_erratum.pdf"> 2022 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2022_oplossingen_NL.pdf"> 2022 oplossingen <i class="fa fa-download"></i></a> |
-| <a href="../vorige_edities/2021_opgave_NL.pdf"> 2021 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2021_oplossingen_nl.pdf"> 2021 oplossingen <i class="fa fa-download"></i></a> |
-| <a href="../vorige_edities/2020_opgave_NL.pdf"> 2020 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2020_oplossingen_NL.pdf"> 2020 oplossingen <i class="fa fa-download"></i></a> |
-| <a href="../vorige_edities/2019_opgave_NL.pdf"> 2019 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2019_oplossingen_NL.pdf"> 2019 oplossingen <i class="fa fa-download"></i></a> |
-| <a href="../vorige_edities/2018_opgave_NL.pdf"> 2018 opgave <i class="fa fa-download"></i></a> | <a href="../vorige_edities/2018_oplossingen_NL.pdf"> 2018 oplossingen <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2024_opgave_nl.pdf"> opgave 2024 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2024_oplossingen_NL.pdf"> oplossingen 2024 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2023_opgave_nl.pdf"> opgave 2023 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2023_oplossingen_NL.pdf"> oplossingen 2023 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2022_opgave_nl_erratum.pdf"> opgave 2022 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2022_oplossingen_NL.pdf"> oplossingen 2022 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2021_opgave_NL.pdf"> opgave 2021 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2021_oplossingen_nl.pdf"> oplossingen 2021 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2020_opgave_NL.pdf"> opgave 2020 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2020_oplossingen_NL.pdf"> oplossingen 2020 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2019_opgave_NL.pdf"> opgave 2019 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2019_oplossingen_NL.pdf"> oplossingen 2019 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2018_opgave_NL.pdf"> opgave 2018 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2018_oplossingen_NL.pdf"> oplossingen 2018 <i class="fa fa-download"></i></a> |
 
-## Teaser
+<!-- ## Teaser
 Met deze teaser kondigden we eerder de startdatum van de puzzel aan:
 
 <p>
-  <img src="../puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%" style="margin: 54px auto 54px;">
-</p>
+  <img src="vorige_edities/puzzel-2025-teaser.png" alt="teaser eindejaarspuzzel 2025" width="80%" style="margin: 54px auto 54px;">
+</p> -->
