@@ -1,0 +1,63 @@
+/* general */
+
+h1:has(a) {display: none !important;}
+h1 {text-align: center;}
+
+a {color: #EE3240;}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+/* download & form buttons */
+
+.button {
+    border-radius: 12px;
+    background-color: black;
+    margin: 0 auto 16px;
+    padding: 0px;
+    width: 320px;
+    text-align: center;
+    color: #EE3240;
+    text-decoration: inherit;
+}
+
+.button a, .button button {
+    width: 100%;
+    display: block;
+    vertical-align: middle;
+    line-height: 36px;
+    color: #FCDA25;
+}
+
+/* specific mail form styles */
+
+#email {
+    width: 300px;
+    display: block;
+    vertical-align: middle;
+    line-height: 24px;
+    margin: 0 auto 16px;
+}
+
+form label {
+  display: block;
+  text-align: center;
+  margin: 0 auto 0px;
+  font-style: italic;
+}
+
+/* tables */
+
+.markdown-body table {
+  display: table;
+  width: initial;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* accordeon menu */
+
+summary {margin-bottom: 24px;}
+summary h2 {display: inline;}
