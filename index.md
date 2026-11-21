@@ -30,6 +30,10 @@ table {
   margin-left:auto;
   margin-right:auto;
 }
+
+summary {margin-bottom: 16px;}
+summary h2 {display: inline;}
+
 </style>
 
 <div>
@@ -46,24 +50,7 @@ In 2026 brengen we onze tweede eindejaarspuzzel uit. Deze nieuwe puzzel zit opni
 
 ## Opgaven
 
-De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je ons alvast je mailadres doorgeven.
-
-<form id="signup">
-  <label for="email">e-mailadres</label>
-  <input type="email" id="email" required maxlength="64" autocomplete="email">
-  <button type="submit">Hou mij op de hoogte!</button>
-</form>
-
-<script>
-document.getElementById('signup').addEventListener('submit', e => {
-  e.preventDefault();
-  const addr = document.getElementById('email').value.trim();
-  const to = 'eindejaarspuzzel@gmail.com';
-  const subject = encodeURIComponent('Hou mij op de hoogte van de eindejaarspuzzel!');
-  const body = encodeURIComponent('Mijn e-mailadres: ' + addr);
-  location.href = `mailto:${to}?subject=${subject}&body=${body}`;
-});
-</script>
+De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je alvast een berichtje sturen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>.
 
 <!-- ## Opgaven
 
@@ -87,12 +74,12 @@ Hints <i class="fa fa-download"></i>
 </a>
 </p> -->
 
-## Resultaten 2025
 <details>
-  <summary>[openklikken]</summary>
-  We ontvingen antwoorden van 35 teams. Hartelijk bedankt voor jullie deelname!
+  <summary><h2>Resultaten 2025</h2></summary>
+  
+  <p>We ontvingen voor de editie 2025 antwoorden van 35 teams. Hartelijk bedankt voor jullie deelname!</p>
 
-  Dit jaar was het enorm spannend aan de absolute top van het klassement: twee teams bleven nek aan nek en het verschil werd uiteindelijk gemaakt met slechts een half punt! Het waren **Wessel, Barry, Ruben en Thomas** die de topscore van 160,5 punten behaalden. Omdat het zo close was, willen we ook een eervolle vermelding geven aan **de Pseudoku’s** met 160 punten. Proficiat aan beide teams, maar evenzeer proficiat én bedankt aan alle andere deelnemende ploegen.
+  <p>Het was enorm spannend aan de absolute top van het klassement: twee teams bleven nek aan nek en het verschil werd uiteindelijk gemaakt met slechts een half punt! Het waren <b>Wessel, Barry, Ruben en Thomas</b> die de topscore van 160,5 punten behaalden. Omdat het zo close was, willen we ook een eervolle vermelding geven aan <b>de Pseudoku’s</b> met 160 punten. Proficiat aan beide teams, maar evenzeer proficiat én bedankt aan alle andere deelnemende ploegen.</p>
 </details>
 
 ## Contacteer ons
