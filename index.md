@@ -25,10 +25,12 @@ img {
     line-height: 36px;
     color: #FCDA25;
 }
+
 .markdown-body table {
   display: table;
-  margin-left:auto;
-  margin-right:auto;
+  width: initial;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 summary {margin-bottom: 24px;}
@@ -58,7 +60,7 @@ De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan 
 
 <p class="button">
 <a href="mailto:eindejaarspuzzel@gmail.com">
-Hou mij op de hoogte!<i class="fa fa-paper-plane"></i>
+Hou mij op de hoogte! <i class="fa fa-paper-plane"></i>
 </a>
 </p>
 
