@@ -1,42 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<style>
-h1:has(a) {display: none !important;}
-h1 {text-align: center;}
-a {color: #EE3240;}
-img {
-    display: block;
-    margin: auto;
-}
-.button {
-    border-radius: 12px;
-    background-color: black;
-    margin: 0 auto 16px;
-    padding: 0px;
-    width: 320px;
-    text-align: center;
-    color: #EE3240;
-    text-decoration: inherit;
-}
-.button a {
-    width: 100%;
-    display: block;
-    vertical-align: middle;
-    line-height: 36px;
-    color: #FCDA25;
-}
-
-.markdown-body table {
-  display: table;
-  width: initial;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-summary {margin-bottom: 24px;}
-summary h2 {display: inline;}
-
-</style>
+<link rel="stylesheet" href="localstyle.css">
 
 <div>
   <img src="puzzel-2026-logo.png" alt="logo eindejaarspuzzel 2026" width="100px">
@@ -58,11 +21,22 @@ In 2026 brengen we onze tweede eindejaarspuzzel uit. Deze nieuwe puzzel zit opni
 
 De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je alvast een berichtje sturen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>.
 
-<p class="button">
+<!-- <p class="button">
 <a href="mailto:eindejaarspuzzel@gmail.com">
 Hou mij op de hoogte! <i class="fa fa-paper-plane"></i>
 </a>
-</p>
+</p> -->
+
+<form id="signup">
+  <label for="email">E-mailadres</label>
+  <input type="email" id="email" name="email" required maxlength="64" autocomplete="email">
+  <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+  <input type="hidden" name="_subject" value="New signup">
+  <input type="hidden" name="_captcha" value="false">
+  <p class="button"><button type="submit">Hou mij op de hoogte! <i class="fa fa-paper-plane"></i></button></p>
+</form>
+<p id="status" role="status" aria-live="polite"></p>
+<script src="localscript-mail.js"></script>
 
 
 
