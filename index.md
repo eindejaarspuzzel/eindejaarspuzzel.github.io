@@ -25,13 +25,13 @@ img {
     line-height: 36px;
     color: #FCDA25;
 }
-table {
+.markdown-body table {
   display: table;
   margin-left:auto;
   margin-right:auto;
 }
 
-summary {margin-bottom: 16px;}
+summary {margin-bottom: 24px;}
 summary h2 {display: inline;}
 
 </style>
@@ -42,37 +42,27 @@ summary h2 {display: inline;}
 
 # Eindejaarspuzzel 2026
 
+
+
 ## Over de puzzel
 
 Na het officiële stopzetten van de ADIV-eindejaarspuzzel in 2025 hebben wij, een team van zowel nieuwe puzzelmakers als makers van de vorige editie, de uitdaging aangenomen om een gloednieuwe moeilijkste puzzel van België te creëren.
 
 In 2026 brengen we onze tweede eindejaarspuzzel uit. Deze nieuwe puzzel zit opnieuw boordevol encryptiemethodes, verwijzingen naar het afgelopen jaar en wetenschappelijke links.
 
+
+
 ## Opgaven
 
 De opgaven van 2026 zijn nog niet beschikbaar. Wil je op de hoogte blijven, dan kun je alvast een berichtje sturen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>.
 
-<!-- ## Opgaven
-
-De puzzel van 2025 is afgelopen en verwerkt, maar met de knoppen hieronder kun je nog steeds spoilervrij nagenieten. Er zijn tevens nog hints beschikbaar.
-
 <p class="button">
-<a href="2025/opgave2025.pdf">
-Download <i class="fa fa-puzzle-piece"></i>
+<a href="mailto:eindejaarspuzzel@gmail.com">
+Hou mij op de hoogte!<i class="fa fa-paper-plane"></i>
 </a>
 </p>
 
-<p class="button">
-<a href="2025/opgave2025_print.pdf">
-Download (printvriendelijke versie) <i class="fa fa-puzzle-piece"></i>
-</a>
-</p>
 
-<p class="button">
-<a href="2025/Hints2025.pdf">
-Hints <i class="fa fa-download"></i>
-</a>
-</p> -->
 
 <details>
   <summary><h2>Resultaten 2025</h2></summary>
@@ -82,9 +72,15 @@ Hints <i class="fa fa-download"></i>
   <p>Het was enorm spannend aan de absolute top van het klassement: twee teams bleven nek aan nek en het verschil werd uiteindelijk gemaakt met slechts een half punt! Het waren <b>Wessel, Barry, Ruben en Thomas</b> die de topscore van 160,5 punten behaalden. Omdat het zo close was, willen we ook een eervolle vermelding geven aan <b>de Pseudoku’s</b> met 160 punten. Proficiat aan beide teams, maar evenzeer proficiat én bedankt aan alle andere deelnemende ploegen.</p>
 </details>
 
+
+
+<!--
 ## Contacteer ons
 
 Voor vragen/opmerkingen naar volgend jaar toe zijn we nog steeds bereikbaar via <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Houd er wel rekening mee dat die mailbox in het tussenseizoen slechts sporadisch gemonitord wordt.
+-->
+
+
 
 <!--
 ## Regels
@@ -95,6 +91,8 @@ Deelnemen kan alleen of in groep en je kan gebruikmaken van alle bronnen die je 
 
 Als je denkt een fout te hebben gevonden in een van de opgaves, dan kan je die melden door te mailen naar <a href="mailto:eindejaarspuzzel@gmail.com">eindejaarspuzzel@gmail.com</a>. Wij beantwoorden geen inhoudelijke vragen over de puzzel.
 -->
+
+
 
 ## Vorige edities
 
@@ -115,6 +113,8 @@ Voor de volledigheid kun je hier ook de originele reeks eindejaarspuzzels van de
 | <a href="vorige_edities/2020_opgave_NL.pdf"> opgave 2020 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2020_oplossingen_NL.pdf"> oplossingen 2020 <i class="fa fa-download"></i></a> |
 | <a href="vorige_edities/2019_opgave_NL.pdf"> opgave 2019 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2019_oplossingen_NL.pdf"> oplossingen 2019 <i class="fa fa-download"></i></a> |
 | <a href="vorige_edities/2018_opgave_NL.pdf"> opgave 2018 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2018_oplossingen_NL.pdf"> oplossingen 2018 <i class="fa fa-download"></i></a> |
+
+
 
 <!-- ## Teaser
 Met deze teaser kondigden we eerder de startdatum van de puzzel aan:
