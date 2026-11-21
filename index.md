@@ -36,12 +36,12 @@ Hou mij op de hoogte! <i class="fa fa-paper-plane"></i>
   <p class="button"><button type="submit">Hou mij op de hoogte! <i class="fa fa-paper-plane"></i></button></p>
 </form>
 <p id="status" role="status" aria-live="polite"></p>
-<script src="localscript-mail.js"></script>
+<script src="mail.js"></script>
 
 
 
 <details>
-  <summary><h2>Resultaten 2025</h2></summary>
+  <summary><h2Resultaten 2025</h2></summary>
   
   <p>We ontvingen voor de editie 2025 antwoorden van 35 teams. Hartelijk bedankt voor jullie deelname!</p>
 
@@ -76,19 +76,19 @@ Weet je niet waar je moet beginnen? Bekijk dan de opgaves en oplossingen van de 
 
 | Opgave                              | Oplossingen                              | Hints |
 |-------------------------------------|------------------------------------------|-------|
-| <a href="2025/2025_opgave.pdf"> opgave 2025 <i class="fa fa-download"></i></a> | <a href="2025/2025_oplossingen.pdf"> oplossingen 2025 <i class="fa fa-download"></i></a> | <a href="2025/2025_hints.pdf"> hints 2025 <i class="fa fa-download"></i></a> |
+| <a href="2025/2025_opgave.pdf"> 2025 <i class="fa fa-download"></i></a> | <a href="2025/2025_oplossingen.pdf"> 2025 <i class="fa fa-download"></i></a> | <a href="2025/2025_hints.pdf"> 2025 <i class="fa fa-download"></i></a> |
 
 Voor de volledigheid kun je hier ook de originele reeks eindejaarspuzzels van de Belgische defensie terugvinden.
 
 | Opgave                              | Oplossingen                              |
 |----------------------------------------|----------------------------------------|
-| <a href="vorige_edities/2024_opgave_nl.pdf"> opgave 2024 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2024_oplossingen_NL.pdf"> oplossingen 2024 <i class="fa fa-download"></i></a> |
-| <a href="vorige_edities/2023_opgave_nl.pdf"> opgave 2023 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2023_oplossingen_NL.pdf"> oplossingen 2023 <i class="fa fa-download"></i></a> |
-| <a href="vorige_edities/2022_opgave_nl_erratum.pdf"> opgave 2022 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2022_oplossingen_NL.pdf"> oplossingen 2022 <i class="fa fa-download"></i></a> |
-| <a href="vorige_edities/2021_opgave_NL.pdf"> opgave 2021 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2021_oplossingen_nl.pdf"> oplossingen 2021 <i class="fa fa-download"></i></a> |
-| <a href="vorige_edities/2020_opgave_NL.pdf"> opgave 2020 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2020_oplossingen_NL.pdf"> oplossingen 2020 <i class="fa fa-download"></i></a> |
-| <a href="vorige_edities/2019_opgave_NL.pdf"> opgave 2019 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2019_oplossingen_NL.pdf"> oplossingen 2019 <i class="fa fa-download"></i></a> |
-| <a href="vorige_edities/2018_opgave_NL.pdf"> opgave 2018 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2018_oplossingen_NL.pdf"> oplossingen 2018 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2024_opgave_nl.pdf"> 2024 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2024_oplossingen_NL.pdf"> 2024 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2023_opgave_nl.pdf"> 2023 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2023_oplossingen_NL.pdf"> 2023 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2022_opgave_nl_erratum.pdf"> 2022 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2022_oplossingen_NL.pdf"> 2022 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2021_opgave_NL.pdf"> 2021 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2021_oplossingen_nl.pdf"> 2021 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2020_opgave_NL.pdf"> 2020 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2020_oplossingen_NL.pdf"> 2020 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2019_opgave_NL.pdf"> 2019 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2019_oplossingen_NL.pdf"> 2019 <i class="fa fa-download"></i></a> |
+| <a href="vorige_edities/2018_opgave_NL.pdf"> 2018 <i class="fa fa-download"></i></a> | <a href="vorige_edities/2018_oplossingen_NL.pdf"> 2018 <i class="fa fa-download"></i></a> |
 
 
 
